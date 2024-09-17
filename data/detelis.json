@@ -1,0 +1,159 @@
+{
+  "Clothes": [
+    {
+      "id": 1,
+      "price": 150,
+      "name": "Black Cotton T-Shirt",
+      "image": "/image/coloth/11.jpg",
+      "size": ["S", "M", "L", "XL"],
+      "color": "Black",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "price": 270,
+      "name": "Dark Blue Jeans",
+      "image": "/image/coloth/122.webp",
+      "size": ["28", "30", "32", "34"],
+      "color": "Dark Blue",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "price": 350,
+      "name": "Brown Leather Jacket",
+      "image": "/image/coloth/1233.jpg",
+      "size": ["M", "L", "XL"],
+      "color": "Brown",
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "price": 440,
+      "name": "Gray Blazer",
+      "image": "/image/coloth/12344.webp",
+      "size": ["S", "M", "L"],
+      "color": "Gray",
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "price": 120,
+      "name": "White Sneakers",
+      "image": "/image/coloth/skiner.jpg",
+      "size": ["38", "39", "40", "41"],
+      "color": "White",
+      "stock": 25
+    },
+    {
+      "id": 6,
+      "price": 200,
+      "name": "Blue Baseball Cap",
+      "image": "/image/coloth/cap.webp",
+      "size": ["One Size"],
+      "color": "Blue",
+      "stock": 30
+    },
+    {
+      "id": 7,
+      "price": 80,
+      "name": "Green Scarf",
+      "image": "/image/coloth/grreen.jpeg",
+      "size": ["One Size"],
+      "color": "Green",
+      "stock": 18
+    },
+    {
+      "id": 8,
+      "price": 220,
+      "name": "Red Dress",
+      "image": "/image/coloth/reed.jpg",
+      "size": ["S", "M", "L"],
+      "color": "Red",
+      "stock": 8
+    },
+    {
+      "id": 9,
+      "price": 300,
+      "name": "Leather Belt",
+      "image": "/image/coloth/dg.jpg",
+      "size": ["32", "34", "36"],
+      "color": "Black",
+      "stock": 22
+    }
+  ],
+  "Digital": [
+    {
+      "id": 1,
+      "product_name": "Samsung S24 Ultra",
+      "product_desc": "The Samsung S24 Ultra features an ultra-sharp display and cutting-edge technology for an unparalleled smartphone experience.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/SAM.webp",
+      "release_date": "2024-01-15",
+      "warranty": "2 years"
+    },
+    {
+      "id": 2,
+      "product_name": "Apple iPhone 15 Pro Max",
+      "product_desc": "The iPhone 15 Pro Max offers advanced features, a sleek design, and the latest in mobile technology for the ultimate user experience.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/IPHONE 14.webp",
+      "release_date": "2024-09-25",
+      "warranty": "1 year"
+    },
+    {
+      "id": 3,
+      "product_name": "Surface Laptop Studio 2",
+      "product_desc": "The Surface Laptop Studio 2 is a high-performance laptop with a versatile design, perfect for creative professionals and power users.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/MIS.jpeg",
+      "release_date": "2024-06-10",
+      "warranty": "1 year"
+    },
+    {
+      "id": 4,
+      "product_name": "Dell XPS 13",
+      "product_desc": "The Dell XPS 13 is a compact laptop with impressive performance, sleek design, and top-notch build quality for everyday productivity.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/LAPTOP.webp",
+      "release_date": "2024-03-20",
+      "warranty": "1 year"
+    },
+    {
+      "id": 5,
+      "product_name": "Sony WH-1000XM5",
+      "product_desc": "The Sony WH-1000XM5 offers superior noise cancellation and high-resolution audio for an exceptional listening experience.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/sony.jpg",
+      "release_date": "2024-05-12",
+      "warranty": "1 year"
+    },
+    {
+      "id": 6,
+      "product_name": "GoPro HERO10",
+      "product_desc": "The GoPro HERO10 features high-resolution video recording and advanced stabilization for capturing all your adventures.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/camm.jpg",
+      "release_date": "2024-07-30",
+      "warranty": "1 year"
+    },
+    {
+      "id": 7,
+      "product_name": "Fitbit Charge 6",
+      "product_desc": "The Fitbit Charge 6 offers comprehensive health tracking and fitness features to help you stay active and healthy.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/fofo.jpeg",
+      "release_date": "2024-08-25",
+      "warranty": "1 year"
+    },
+    {
+      "id": 8,
+      "product_name": "Amazon Echo Show 8",
+      "product_desc": "The Amazon Echo Show 8 features a vibrant display and voice control for a wide range of smart home functionalities.",
+      "product_category": "Electronics",
+      "product_image": "/image/digtial/ammazon.jpg",
+      "release_date": "2024-09-10",
+      "warranty": "1 year"
+    }
+  ]
+}

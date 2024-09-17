@@ -1,0 +1,43 @@
+
+.romeh-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+
+  .romeh-description {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+
+  .romeh-price {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff; 
+    margin: 20px 0;
+  }
+  .ROMMM{
+    font-size: xx-large;
+    color: #000000;
+    font-style: initial;
+  }.llph{
+    background-color: #000000;
+    box-shadow: 0 4px 8px #000000;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+  }
+  .nav-lisuh{
+    display: flex;
+    gap: 20px; 
+    margin: 0;
+    padding: 0;
+  }
+  .trvvh{
+    color: #000000;
+  }

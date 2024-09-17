@@ -1,0 +1,38 @@
+.romehhe-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+
+  .romehhe-description {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+
+
+  .ROMMMhh{
+    font-size: xx-large;
+    color: #000000;
+  }
+  
+  .llp{
+    background-color: #000000;
+    box-shadow: 0 4px 8px #000000;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+  }
+  .nav-lisu{
+    display: flex;
+    gap: 20px; 
+    margin: 0;
+    padding: 0;
+  }
+  .trvv{
+    color: #000000;
+  }

@@ -1,0 +1,92 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.from-box {
+  background-color: white;
+  padding: 60px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px; /* تكبير العرض */
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2.5rem; /* تكبير حجم الخط */
+  color: #333;
+}
+
+.input-box {
+  position: relative; /* لتحديد مكان الأيقونات داخل الحقول */
+  margin-bottom: 25px;
+}
+
+.input-box .icon {
+  position: absolute;
+  top: 50%;
+  left: 15px; /* تحديد مكان الأيقونة */
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.input-box input {
+  width: 100%;
+  padding: 15px 15px 15px 50px; /* مسافة داخلية كافية للنص والأيقونة */
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 18px; /* تكبير حجم النص في الإدخال */
+}
+
+.forget {
+  text-align: right;
+  margin-bottom: 25px;
+}
+
+.forget a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1.1rem; /* تكبير الخط */
+}
+
+button[type='submit'] {
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px; /* تكبير حجم الخط في الزر */
+  cursor: pointer;
+}
+
+button[type='submit']:hover {
+  background-color: #0056b3;
+}
+
+.register {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.register a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 1.2rem; /* تكبير حجم الخط */
+}
+
+.register a:hover {
+  text-decoration: underline;
+}
+
+.store-image {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 150px;
+}
